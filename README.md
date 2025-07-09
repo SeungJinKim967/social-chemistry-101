@@ -1,4 +1,4 @@
-# Social Chemistry 101
+# Fundamental computational barriers prevent artificial intelligence from replicating human social cognition Social Chemistry 101
 
 ## Project
 
